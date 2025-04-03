@@ -1,4 +1,4 @@
-import EstatePlanningPitchDeck from "@/components/EstatePlanningPitchDeck";
+import EstatePlanningPitchDeck from "../components/EstatePlanningPitchDeck";
 
 export default function Home() {
   return (
